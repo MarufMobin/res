@@ -1,0 +1,18 @@
+.cust-header{
+   background-color: #ffffff;
+   border-bottom: 1px solid #d8822c;
+}
+.coustom-header{
+   color: #efb275f7;
+   text-decoration: none;
+   transition: .3s;
+}
+.coustom-header:hover{
+   color: #d8822c;
+}
+.logo{
+   font-size:24px;
+   color: #d8822c;
+   font-weight:900;
+   font-family: cursive;
+}

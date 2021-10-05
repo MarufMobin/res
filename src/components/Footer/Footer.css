@@ -1,0 +1,17 @@
+.footer-desing{
+    background-color: #b3610f;
+    padding: 0px !important;
+    margin: 0px auto -10px;
+    overflow: hidden ;
+}
+.footer-desing ul{
+    padding: 40px 0px 20px;
+}
+.footer-desing ul li{
+    list-style-type: none;
+    font-size: 22px;
+    font-weight: 600;
+}
+.icon{
+font-size: 22px;    
+}

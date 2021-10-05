@@ -1,0 +1,84 @@
+{
+    "datas":[
+       {
+          "id":1,
+          "name":"Noha",
+          "img":"https://i.scdn.co/image/ab67616d0000b2738d568d3abaa8030c3eb92a0a",
+          "fee":5000,
+          "duration":3,
+          "language":"hindi",
+          "star":5,
+          "des" : "Marsiya and Noha has the historical and social milieu of pre-Islamic Arabic and Persian culture.[3] The sub-parts of Marsiya are called Noha and Soaz which means lamentation. It is usually a poem of mourning.[4] Lamentation has a central part in the literature of the followers and devotees of the Shia sect and its offshoots."
+       },
+       {
+          "id":2,
+          "name":"Nath",
+          "img":"https://i.ytimg.com/vi/51u3maJQFEU/hqdefault.jpg",
+          "fee":4000,
+          "duration":3,
+          "language":"English",
+          "star":3,
+          "des" : "It is difficult to trace the history of Naʽat khawani since no authenticated record of when it was initiated can be found. One early author, Hassan, was known as Shair-e Darbaar-e Risalat. "
+       },
+       {
+          "id":3,
+          "name":"Masia",
+          "img":"https://i1.sndcdn.com/artworks-000118859282-idzfpo-t500x500.jpg",
+          "fee":8000,
+          "duration":5,
+          "language":"hindi",
+          "star":3,
+          "des" : "Even before accepting Islam he was a poet, but after embracing Islam he gave a new turn to his poetry and started writing Na'ats in honor of Muhammad.[4] He was famous for his poetry that defended Muhammad in response to rival poets who attacked him and his religion. "
+       },
+       {
+          "id":4,
+          "name":"Majlish",
+          "img":"https://i.ytimg.com/vi/yscaG6c0W10/mqdefault.jpg",
+          "fee":12000,
+          "duration":3,
+          "language":"hindi",
+          "star":5,
+          "des" : "Therefore, Hassan is known as the first sana-khawaan (naʽat reciter) of that time. After that many a poet followed this trend and totally dedicated themselves towards writing of naʽats."
+       },
+       {
+          "id":5,
+          "name":"Masia",
+          "img":"https://ak.picdn.net/offset/photos/5d31cf97469b183482a1c789/medium/offset_836114.jpg",
+          "fee":8000,
+          "duration":5,
+          "language":"hindi",
+          "star":3,
+          "des" : "The Ciutat Esportiva Joan Gamper training complex has in the La Masia-Centre de Formaci Oriol Tort a unique residence facility due to its many uses and its architectural individuality"
+       },
+       {
+          "id":6,
+          "name":"Matam",
+          "img":"https://c8.alamy.com/comp/EGEB4M/ashura-10-muharram-men-performing-matam-cutting-body-with-blades-chatta-EGEB4M.jpg",
+          "fee":8000,
+          "duration":5,
+          "language":"hindi",
+          "star":3,
+          "des" : "Matam is one of the poorest regions of Senegal. Located in the northeast of the country, more than 45 percent of the population of Matam is under the poverty line. In this region, agriculture and pastoralism are the largest economic sectors."
+       },
+       {
+          "id":7,
+          "name":"Azadari",
+          "img":"https://images.firstpost.com/wp-content/uploads/2021/08/Muharram-600.jpg?impolicy=website&width=320&height=180",
+          "fee":8000,
+          "duration":5,
+          "language":"hindi",
+          "star":3,
+          "des" : "The Mourning of Muharram (also known as the Remembrance of Muharram or Muharram Observances) is a set of commemoration rituals observed primarily by Shia and Sufism, and marked by all Muslims,[1][2] The commemoration falls in Muharram, the first month of the Islamic calendar. Many of the events associated with the ritual take place in congregation halls known as Hussainia."
+       },
+       {
+          "id":8,
+          "name":"kalam",
+          "img":"https://m.media-amazon.com/images/I/81hnBzSiouS._SS500_.jpg",
+          "fee":8000,
+          "duration":5,
+          "language":"hindi",
+          "star":3,
+          "des" : "The tradition of elegizing Hussain and the Karbala tragedy is not limited to Arabic speaking poets. Poets from different languages have also contributed significant poetic literature in their language."
+       }
+    ]
+ }
